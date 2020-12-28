@@ -1,1 +1,3 @@
-# proposals
+# Proposals
+
+* [API Specification](./SPECIFICATION.md)
